@@ -1,5 +1,5 @@
 {
-  "FilePath": "n:\\VSCode\\aspdotnet-core\\aspdotnet-core.csproj",
+  "FilePath": "d:\\VSCode\\aspdotnet-core\\aspdotnet-core.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,43 +14392,43 @@
   "RootNamespace": "aspdotnet_core",
   "Documents": [
     {
-      "FilePath": "n:\\VSCode\\aspdotnet-core\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "n:\\VSCode\\aspdotnet-core\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "n:\\VSCode\\aspdotnet-core\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "n:\\VSCode\\aspdotnet-core\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "n:\\VSCode\\aspdotnet-core\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "n:\\VSCode\\aspdotnet-core\\Views\\Home\\Contact.cshtml",
+      "FilePath": "d:\\VSCode\\aspdotnet-core\\Views\\Home\\Contact.cshtml",
       "TargetPath": "Views\\Home\\Contact.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "n:\\VSCode\\aspdotnet-core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "d:\\VSCode\\aspdotnet-core\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\VSCode\\aspdotnet-core\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\VSCode\\aspdotnet-core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "n:\\VSCode\\aspdotnet-core\\Views\\_ViewStart.cshtml",
+      "FilePath": "d:\\VSCode\\aspdotnet-core\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\VSCode\\aspdotnet-core\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\VSCode\\aspdotnet-core\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\VSCode\\aspdotnet-core\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
